@@ -56,7 +56,7 @@ then spending the next few hours (or a full day) freaking out before realizing i
 ## 📫 Reach Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ahmedsalah-tech)
-[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@your-medium-handle)
+[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@ahmedsalah-tech)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
