@@ -14,7 +14,6 @@
 I'm a passionate software engineering student with a growing interest in system administration and cybersecurity. Currently, I'm diving into:
 
 - 🌐 Web frameworks like **React** and **APIs**
-- 📱 Mobile app development with **Flutter**
 - 🖥️ Web servers like **Nginx** and **Apache**
 - 🐧 Linux administration & deployment tools like **Docker**
 
