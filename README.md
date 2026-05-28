@@ -1,64 +1,58 @@
-# 👋 Hey, I'm Ahmed Salah
+# Ahmed Salah
 
-🎓 IT Undergrad | 🇾🇪 Yemen  
-💻 Software Engineer in progress | Builder, Breaker & Fixer  
-🔐 Interested in SysAdmin, Cybersecurity & DevOps
+**Full-Stack Developer** · Open to Work
 
----
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdkNXlxaXFpbHBuNXd2ZDd2Y2hkejF3ZjFtdnpxaGprNmxyMHMxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="500"/>
-</p>
+I build web systems that go beyond the tutorial — focused on real architecture decisions, security, and understanding how things actually work under the hood.
 
-## 🧠 About Me
-
-I'm a passionate software engineering student with a growing interest in system administration and cybersecurity. Currently, I'm diving into:
-
-- 🌐 Web frameworks like **React** and **APIs**
-- 🖥️ Web servers like **Nginx** and **Apache**
-- 🐧 Linux administration & deployment tools like **Docker**
-
-I enjoy building cool stuff, and occasionally breaking things...  
-then spending the next few hours (or a full day) freaking out before realizing it was just a missing semicolon 😅
+Currently based in Yemen 🇾🇪 · Available for remote roles
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### 🎥 [Full-Stack Live Streaming Platform](https://github.com/ahmedsalah-tech/Full-Stack-Live-Streaming-Platform)
+A Twitch-inspired MVP built with **MERN + TypeScript**. The interesting part was the architecture: a dedicated RTMP media server fully decoupled from the REST API, so each can scale independently. Includes JWT auth, Socket.io live chat, follow system, and stream key management.
+
+`React` `Node.js` `TypeScript` `MongoDB` `Socket.io` `RTMP`
+
+### 📝 [Laravel Blogging Platform](https://github.com/ahmedsalah-tech/Full-Fledged-Laravel-Blogging-Platform)
+A production-grade publishing platform built with a security-first mindset. Custom **Redis-backed auth caching** cuts repeated DB queries to ~1-2ms cache hits. Ships with 93 security tests (XSS, SQLi, CSRF, rate limiting, file validation) and a full Docker multi-service environment.
+
+`Laravel` `PHP` `Redis` `MySQL` `Docker` `Pest` `Swagger`
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsalah-tech&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-tech&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedsalah-tech&theme=radical&hide_border=true)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmedsalah-tech&label=Visitors&color=ff69b4&style=flat)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)](https://www.linux.org/)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 📫 Reach Me
+## GitHub Stats
+
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsalah-tech&show_icons=true&theme=radical)](https://github.com/ahmedsalah-tech)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-tech&layout=compact&theme=radical)](https://github.com/ahmedsalah-tech)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedsalah-tech&theme=radical&hide_border=true)](https://github.com/ahmedsalah-tech)
+
+---
+
+## Get in Touch
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ahmedsalah-tech)
 [![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@ahmedsalah-tech)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30978337/ahmed-salah)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AhmedSalah_tech)
-
----
-
-> *"I build things, break them, and sometimes fix them... eventually."*
