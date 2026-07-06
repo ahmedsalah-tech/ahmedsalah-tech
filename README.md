@@ -42,10 +42,6 @@ A production-grade publishing platform built with a security-first mindset. Cust
 
 ## GitHub Stats
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsalah-tech&show_icons=true&theme=radical)](https://github.com/ahmedsalah-tech)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-tech&layout=compact&theme=radical)](https://github.com/ahmedsalah-tech)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmedsalah-tech&theme=radical&hide_border=true)](https://github.com/ahmedsalah-tech)
 
 ---
@@ -54,3 +50,4 @@ A production-grade publishing platform built with a security-first mindset. Cust
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ahmedsalah-tech)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AhmedSalah_tech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsalah-haidar)
