@@ -1,6 +1,6 @@
 # Ahmed Salah
 
-**Full-Stack Developer** · Open to Work
+**Full-Stack Developer**
 
 I build web systems that go beyond the tutorial — focused on real architecture decisions, security, and understanding how things actually work under the hood.
 
