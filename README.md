@@ -36,7 +36,7 @@
 
 I'm a **Full-Stack Developer** with a strong backend lean — I care deeply about how systems actually work under the hood, not just getting them to render on screen.
 
-<img align="right" width="450" src="https://giffiles.alphacoders.com/215/215911.gif" alt="Coding Animation" />
+<img align="right" width="420" src="https://giffiles.alphacoders.com/215/215911.gif" alt="Coding Animation" />
 
 My projects tackle the kind of problems most developers skip over: **custom auth caching** that drops DB queries to ~1ms, **hybrid cryptography** that handles real-world file encryption at scale, and **decoupled media servers** designed to scale independently from your API layer.
 
